@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༈བློ་སྦྱོང་དོན་བདུན་མའི་ལྗངས་ཁྲིད་རྒྱལ་སྲས་ཆོས་ཀྱི་མྱུ་གུའི་ཞལ་ལུང་། །
+  authors: []
+  sku: SHE-PRA-01
+  layers:
+  - book_title
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Teaching of Bodhisattava Sapling of Dharma on the Seven-Point Mind Training
+    bo: བློ་སྦྱོང་དོན་བདུན་མའི་ལྗངས་ཁྲིད་རྒྱལ་སྲས་ཆོས་ཀྱི་མྱུ་གུའི་ཞལ་ལུང་།
+  collection:
+    en: Shechen Practice Series–  Book 1
+    bo: ཞེ་ཆེན་ཉམས་ལེན་སྐོར།–  དེབ། ༡
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-PRA-01
+  category:
+    en: Mind Training
+    bo: བློ་སྦྱོང།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-PRA-01.epub
+  description:
+    en: ''
+    bo: ''
