@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000200
+initial_creation_type: ebook
+source_metadata:
   title: ༈བློ་སྦྱོང་དོན་བདུན་མའི་ལྗངས་ཁྲིད་རྒྱལ་སྲས་ཆོས་ཀྱི་མྱུ་གུའི་ཞལ་ལུང་། །
   authors: []
-  sku: SHE-PRA-01
   layers:
   - book_title
   - chapter_title
   - tsawa
   - quotation
   - sabche
+  id: SHE-PRA-01
 web_metadata:
   title:
     en: A Teaching of Bodhisattava Sapling of Dharma on the Seven-Point Mind Training
